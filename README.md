@@ -1,5 +1,5 @@
 ## Hi!, I am Ananda Bagus Shevchenko👋
-![Bagus](github-header-banner.png)
+Hi there!👋 Welcome to my Github Profile, My name is Ananda Bagus Shevchenko (usually called Bagus). I am a Front End Developer and Full Stack Enthusiast. With a background in Software Engineering from SMK, I am currently continuing my education as a student at Semarang University. I am eager to apply my skills and contribute professionally to the world of software development.
 
 ## Programming Languages & Tools 🛠️
 
@@ -15,15 +15,9 @@
 ---
 
 ## Connect With Me
-![https://www.linkedin.com/in/ananda-bagus-shevchenko-5b392a301/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/bgos.s_?igsh=MW5xN3Z1emw1cnB0dg==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-bagus-shevchenko-5b392a301/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bgos.s_?igsh=MW5xN3Z1emw1cnB0dg==)
 
 ---
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bguss03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-##
-
-<img src="https://raw.githubusercontent.com/bguss03/bguss03/output/snake.svg" alt="Snake animation" />
-
-###
